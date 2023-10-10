@@ -8,7 +8,7 @@
         <version>3.0.0-SNAPSHOT</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.aishatmoshood</groupId>
+    <groupId>com.confidence</groupId>
     <artifactId>activitytracker</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>activitytracker</name>

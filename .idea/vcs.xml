@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot/activity-tracker" vcs="Git" />
   </component>
 </project>
